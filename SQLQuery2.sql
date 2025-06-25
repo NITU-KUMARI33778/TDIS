@@ -1,0 +1,1 @@
+Insert into AddtoCart (Item_Name,Rate,User_name,image_url) values('Sambalpuri Saree','599','Simmi','~/TDIS/odisha sambalpuri saree/sambalpuri saree 1.jpg')

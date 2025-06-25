@@ -1,0 +1,7 @@
+SELECT TOP (1000) [Item_Name]
+      ,[Rate]
+      ,[Booking_Date]
+      ,[User_name]
+      ,[Status]
+      ,[image_url]
+  FROM [TDIS].[dbo].[AddtoCart]

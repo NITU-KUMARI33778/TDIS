@@ -1,0 +1,2 @@
+Insert into Userdetails (Full_Name,Email_ID,Phone_no,Gender,City,State,Address,Pin_Code ) values ('SimratKaur','simratkaursanghe@gmail.com','7979077305','Female','Jsr','jhar','Sonari','831011')
+Delete from Userdetails
